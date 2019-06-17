@@ -4,7 +4,7 @@ from sources:
 ```sh
 git clone https://github.com/Tiiffi/mcrcon.git
 cd mcrcon
-apt install -y make g++
+apt install -y make g++ gcc
 make
 sudo make install
 ```
