@@ -2,7 +2,7 @@
 
 from sources:
 ```sh
-git clone https://github.com/Tiiffi/mcrcon.git
+git clone https://github.com/joinandplaycoop/mcrcon.git
 cd mcrcon
 apt install -y make g++ gcc
 make
