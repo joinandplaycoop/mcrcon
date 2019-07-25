@@ -1,3 +1,5 @@
+This is a FORK of tiiffi i corrected the packages size and the install commands that's all
+
 ###Installing:
 
 from sources:
